@@ -1,0 +1,6 @@
+// Need to download proper packages, am having dependency issues. Haven't coded on this laptop as of yet.
+
+int main(){
+    std :: count << "hello world\n"
+
+}
